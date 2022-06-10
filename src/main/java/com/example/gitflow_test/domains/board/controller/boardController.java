@@ -7,5 +7,7 @@ public class boardController {
         String test2 = "dev에서 feature1 작업한 코드입니다.";
         String test3 = "dev에서 feature1 작업한 코드입니다.";
         String test4 = "dev에서 feature1 작업한 코드입니다.";
+
+        String dev2Feature3 = "aplha 테스트 중 2차 개발 영역 dev 업데이트 진행되는 경우";
     }
 }
